@@ -1,5 +1,5 @@
 # html-pages
-### Website in html only!
+Website in html only!
 <br/> <br/>
 
 <!--gif de apresentação da pagina-->
@@ -7,4 +7,5 @@
 <br/>
 
 This project was proposed in the course Complete Web Development on the Udemy Platform, it consists of creating 3 pages for a website with HTML only.
+<br/>
 By Jamilton Damasceno.
