@@ -1,8 +1,8 @@
 # html-pages
 <br/> <br/>
 
-<!--gif de apresentação da pagina-->
-![Apresentação da pagina](https://github.com/IsadoraVanderlan/html-pages/blob/main/Apresenta%C3%A7%C3%A3o%20da%20pagina.gif)
+<!--gif presentation of the page-->
+![Presentation of the page](https://github.com/IsadoraVanderlan/html-pages/blob/main/Apresenta%C3%A7%C3%A3o%20da%20pagina.gif)
 <br/><br/>
 
 Website in html only!
