@@ -4,7 +4,7 @@
 <!--gif presentation of the page-->
 ![Presentation of the page](https://github.com/IsadoraVanderlan/html-pages/blob/main/Apresenta%C3%A7%C3%A3o%20da%20pagina.gif)
 
-<br/><hr/>
+<br/>
 <a href="https://isadoravanderlan.github.io/html-pages/">Click here to see the project</a>
 <br/><hr/>
 
